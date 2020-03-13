@@ -1,4 +1,4 @@
-# Created 2020-03-12 Thu 22:14
+# Created 2020-03-12 Thu 22:21
 #+OPTIONS: toc:nil d:nil
 #+OPTIONS: toc:nil
 #+OPTIONS: toc:nil d:nil
@@ -19,7 +19,7 @@ This reference sheet is built from a
 [[https://github.com/alhassy/CheatSheet][CheatSheets with Org-mode]]
 system.
 
-#+html: <p align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8.1-b48ead.svg?style=plastic"/></a></p><p align="center"><img src="emacs-birthday-present.png" width=200 height=250/></p>
+,# html: <p align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8.1-b48ead.svg?style=plastic"/></a></p><p align="center"><img src="emacs-birthday-present.png" width=200 height=250/></p>
 
 #+toc: headlines 2
 #+macro: blurb Quick reference to the tremendously accessible high-level language of the web ^_^
@@ -76,7 +76,7 @@ system.
 #+latex_header: \DefineVerbatimEnvironment{verbatim}{Verbatim}{fontsize=\scriptsize}
 
 
-#+latex_header: \def\cheatsheeturl{https://github.com/alhassy/CheatSheet}
+#+latex_header: \def\cheatsheeturl{https://github.com/alhassy/JavaScriptCheatSheet}
 
 #+latex_header: \def\cheatsheetcols{2}
 #+latex_header: \landscapetrue

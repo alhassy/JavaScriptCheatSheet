@@ -51,7 +51,7 @@ console.log('ola');
 * LaTeX Extra, Local, Setup  :ignore:
 
 # Empty by default.
-#+LATEX_HEADER: \def\cheatsheeturl{https://github.com/alhassy/CheatSheet}
+#+LATEX_HEADER: \def\cheatsheeturl{https://github.com/alhassy/JavaScriptCheatSheet}
 
 # The following are the defaults & may be omitted.
 #+LATEX_HEADER: \def\cheatsheetcols{2}
@@ -2095,7 +2095,7 @@ Press ~C-c C-c~ on the following incantation to produce a single column portrait
      [[https://github.com/alhassy/CheatSheet][CheatSheets with Org-mode]]
      system.
 
-     ,#+html: <p align=\"center\"><a href=\"https://www.python.org/\"><img src=\"https://img.shields.io/badge/Python-3.8.1-b48ead.svg?style=plastic\"/></a></p><p align=\"center\"><img src=\"emacs-birthday-present.png\" width=200 height=250/></p>
+     ,# html: <p align=\"center\"><a href=\"https://www.python.org/\"><img src=\"https://img.shields.io/badge/Python-3.8.1-b48ead.svg?style=plastic\"/></a></p><p align=\"center\"><img src=\"emacs-birthday-present.png\" width=200 height=250/></p>
 
      ,#+TOC: headlines 2
      ,#+INCLUDE: CheatSheet.org
