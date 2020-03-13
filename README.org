@@ -1,4 +1,4 @@
-# Created 2020-03-12 Thu 22:21
+# Created 2020-03-13 Fri 05:54
 #+OPTIONS: toc:nil d:nil
 #+OPTIONS: toc:nil
 #+OPTIONS: toc:nil d:nil
@@ -18,8 +18,6 @@ Quick reference to the tremendously accessible high-level language of the web ^_
 This reference sheet is built from a
 [[https://github.com/alhassy/CheatSheet][CheatSheets with Org-mode]]
 system.
-
-,# html: <p align="center"><a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8.1-b48ead.svg?style=plastic"/></a></p><p align="center"><img src="emacs-birthday-present.png" width=200 height=250/></p>
 
 #+toc: headlines 2
 #+macro: blurb Quick reference to the tremendously accessible high-level language of the web ^_^
@@ -95,6 +93,49 @@ system.
 #+latex_header: \newunicodechar{ʸ}{\ensuremath{^y}}
 #+latex_header: \newunicodechar{₋}{\ensuremath{_{-}}}
 #+latex_header: \newunicodechar{₁}{\ensuremath{_1}}
+
+#+begin_quote
+- [[#intro][Intro]]
+- [[#types][Types]]
+- [[#variable-bindings][Variable Bindings]]
+- [[#scope-and-statements][Scope and Statements]]
+- [[#arithmetic][Arithmetic]]
+- [[#booleans][Booleans]]
+  - [[#empty-values][Empty Values]]
+- [[#strings][Strings]]
+  - [[#string-methods][String Methods]]
+  - [[#method-names-shared-with-arrays][Method Names Shared with Arrays]]
+  - [[#treating-strings-as-arrays][Treating Strings as Arrays]]
+- [[#arrays][Arrays]]
+  - [[#array-methods][Array methods]]
+- [[#functions][Functions]]
+  - [[#intro-1][Intro]]
+  - [[#default-values][Default Values]]
+  - [[#rest-parameters][Rest Parameters]]
+  - [[#higher-order-functions][Higher-order Functions]]
+- [[#destructuring-and-the-spread-operator][Destructuring and the “spread” Operator]]
+- [[#objects][Objects]]
+  - [[#object-creation][Object Creation]]
+  - [[#getters-and-setters----get-set][Getters and Setters -- ~get, set~]]
+  - [[#dictionries-or-maps][Dictionries or maps]]
+- [[#the-this-keyword][The ~this~ Keyword]]
+  - [[#call][~Call~]]
+  - [[#the-this-of-parent-scopes][The ~this~ of Parent Scopes]]
+- [[#object-oriented-programming][Object-Oriented Programming]]
+  - [[#intro-2][Intro]]
+  - [[#adding-new-methods-or-overriding-methods][Adding New Methods or Overriding Methods]]
+  - [[#inheritance-and-null-parents][Inheritance and Null Parents]]
+  - [[#1-prototype-example][⟨1⟩ Prototype Example]]
+  - [[#2-manual-constructor-functions][⟨2⟩ Manual Constructor Functions]]
+  - [[#3-constructor-functions-with-new][⟨3⟩ Constructor Functions with ~new~]]
+  - [[#4-class-notation][⟨4⟩ ~class~ Notation]]
+- [[#the-iterator-interface][The Iterator Interface]]
+- [[#javascript-and-the-browser][JavaScript and the Browser]]
+  - [[#large-scripts][Large Scripts]]
+- [[#break][Break]]
+- [[#reads][Reads]]
+- [[#some-fun-stuff-_][Some Fun Stuff ^_^]]
+#+end_quote
 
 #+latex: \vspace{1em}
 
