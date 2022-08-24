@@ -1372,7 +1372,11 @@ The ~code/hello.js~ file included here contains the simple program ~alert("hello
   /This tutorial will teach you JavaScript from basic to advanced./
 
   Other bite-sized lessions can be found at: https://masteringjs.io/fundamentals
+ 
+- https://www.scaler.com/topics/javascript/
 
+   /Learn JavaScript with step-by-step guide along with applications and example programs by Scaler Topics./
+   
 - https://learnxinyminutes.com/docs/javascript/
 
   /Take a whirlwind tour of your next favorite language. Community-driven!/
