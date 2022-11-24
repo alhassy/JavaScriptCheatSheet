@@ -1385,6 +1385,11 @@ The ~code/hello.js~ file included here contains the simple program ~alert("hello
 - https://github.com/you-dont-need/You-Dont-Need-Loops
 
   /Avoid The One-off Problem, Infinite Loops, Statefulness and Hidden intent./
+  
+- https://www.scaler.com/topics/javascript/
+
+ /This JavaScript tutorial covers all the important concepts in JavaScript such as operators, loops, functions, OOPs, Asynchronous JS, and much more from the very basics to advanced level./
+  
 
 * Some Fun Stuff ^_^
 #+begin_src js
